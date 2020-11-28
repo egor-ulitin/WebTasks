@@ -1,0 +1,18 @@
+.task1 {
+    width: 200px;
+    background-color: #f9e497;
+    margin: 10px auto;
+    border: 1px solid #000;
+    border-radius: 12px;
+    box-shadow: 5px 5px 0 0 #a50000;
+}
+ul {
+    list-style: none;
+    color: #a50000;
+    font-family: 'Times', sans-serif;
+    padding: 0 0 0 8px;
+    margin: 10px 0 0 0;
+}
+li {
+    padding-bottom: 10px;
+}

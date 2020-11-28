@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.task2 {
+    background: #0096DB;
+    border: 2px solid #0075B2;
+    height: 275px;
+    width: 400px;
+    color: #fff;
+    margin: 30px;
+    font: 17px Tahoma;
+}
+
+h2 {
+    border-bottom: 1px solid #fff;
+    height: 60px;
+    padding: 10px 20px;
+}
+
+.reg {
+    padding: 20px;
+}
+
+input[ type="email"] {
+    width: 320px;
+    height: 20px;
+}
+
+input[ type="password"] {
+    width: 150px;
+    height: 20px;
+}
+
+input[ type="submit"] {
+    background: red;
+    margin: 25px 7px;
+    background: #FFDF7F;
+    border: none;
+    padding: 3px;
+}
+
+label {
+    display: block;
+    float:left;
+    margin: 8px;
+}
